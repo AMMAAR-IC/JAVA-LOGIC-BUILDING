@@ -90,7 +90,3 @@ If you'd like to add new patterns or optimize logic, feel free to fork this repo
 Created by **[Ammaar](https://github.com/AMMAAR-IC)** — feel free to reach out or connect on [LinkedIn](https://www.linkedin.com/in/icammaar).
 
 ---
-
-### 📌 License
-
-This project is open-source under the [MIT License](LICENSE).
